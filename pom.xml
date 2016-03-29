@@ -4,7 +4,7 @@
 
     <groupId>MavenTest</groupId>
     <artifactId>MavenTest</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.1</version>
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
@@ -29,6 +29,6 @@
         <url>https://github.com/tcqa-repos/MavenHW</url>
         <connection>scm:git:ssh://git@github.com/tcqa-repos/MavenHW.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/tcqa-repos/MavenHW.git</developerConnection>
-        <tag>MavenTest-1.0</tag>
+        <tag>MavenTest-1.1</tag>
     </scm>
 </project>
