@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>MavenTest</groupId>
     <artifactId>MavenTest</artifactId>
-    <version>1</version>
+    <version>1.0-SNAPSHOT</version>
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
@@ -23,9 +25,9 @@
     </plugins>
   </build>
    <scm>
-        <url>https://bitbucket.org/rciovati/my-repo/src</url>
-        <connection>scm:git:ssh://git@bitbucket.org/rciovati/my-repo.git</connection>
-        <developerConnection>scm:git:ssh://git@bitbucket.org/rciovati/my-repo.git</developerConnection>
-        <tag>MavenTest-1</tag>
+        <url>https://github.com/tcqa-repos/MavenHW</url>
+        <connection>scm:git:ssh://git@github.com/tcqa-repos/MavenHW.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/tcqa-repos/MavenHW.git</developerConnection>
+        <tag>HEAD</tag>
     </scm>
 </project>
