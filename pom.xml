@@ -28,7 +28,7 @@
    <scm>
         <url>https://github.com/tcqa-repos/MavenHW</url>
         <connection>scm:git:https://git@github.com/tcqa-repos/MavenHW.git</connection>
-        <developerConnection>scm:git:https://git@github.com/tcqa-repos/MavenHW.git</developerConnection>
+        <developerConnection>scm:git:ssh://git@github.com/tcqa-repos/MavenHW.git</developerConnection>
         <tag>MavenTest-1.1</tag>
     </scm>
 </project>
