@@ -31,4 +31,10 @@
         <developerConnection>scm:git:ssh://git@github.com/tcqa-repos/MavenHW.git</developerConnection>
         <tag>MavenTest-1.1</tag>
     </scm>
+	<distributionManagement>
+   <repository>
+      <id>nexus-releases</id>
+      <url>http://localhost:8081/nexus/content/repositories/releases</url>
+   </repository>
+</distributionManagement>
 </project>
